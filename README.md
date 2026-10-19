@@ -39,3 +39,10 @@
 - **LinkedIn:** https://www.linkedin.com/in/rutuja-dandwate-704228341
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujadandwate4545-art&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujadandwate4545-art&layout=compact&theme=tokyonight)
