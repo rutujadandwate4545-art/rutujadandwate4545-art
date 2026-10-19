@@ -1,7 +1,5 @@
 ![Rutuja Dandwate GitHub Banner](Rutuja%20Dandwate%20Tech%20Profile%20Banner.png)
 
-![Rutuja Dandwate GitHub Banner](Rutuja%20Dandwate%20Tech%20Profile%20Banner.png)
-
 ### Aspiring Python Developer | AWS Cloud Enthusiast | Data Analytics Learner
 
 🎓 B.Sc. Computer Science Graduate
