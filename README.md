@@ -46,3 +46,9 @@
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujadandwate4545-art&layout=compact&theme=tokyonight)
+
+## 🧰 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,aws,mysql,html,css,js,git,github,vscode" alt="Python, AWS, MySQL, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+</p>
